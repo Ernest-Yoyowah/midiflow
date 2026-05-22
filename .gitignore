@@ -1,0 +1,22 @@
+# Generated files
+node_modules/
+dist/
+dist-ssr/
+
+# Tauri build output
+src-tauri/target/
+src-tauri/gen/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/settings.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
